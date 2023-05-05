@@ -1,3 +1,4 @@
+## Application result : OFFERING
 # rest-filtering
 
 This is a project that provides filtering and sorting functionality for data from a Postgresql database through RESTful API endpoints.
